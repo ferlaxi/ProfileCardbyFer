@@ -11,5 +11,4 @@
 ## Author
 
 - Frontend Mentor - [@ferlaxi](https://www.frontendmentor.io/profile/ferlaxi)
-- Live Site URL: [Profile Card Component]() 🌐
-
+- Live Site URL: [Profile Card Component](https://ferlaxi.github.io/ProfileCardbyFer/) 🌐
